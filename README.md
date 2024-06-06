@@ -92,7 +92,7 @@ If you'd like to contribute to this repository by adding new projects, exercises
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
 
 ---
 
