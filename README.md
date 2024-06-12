@@ -14,11 +14,13 @@ Python is a versatile and powerful programming language that's widely used in va
 
 ## Structure of the Repository
 
-- **Projects**: Each day, you'll find a new Python project. Some Projects that use multiple files even have their own dedicated directories. These projects will cover a wide range of topics and applications, allowing you to explore different aspects of Python programming.
-  
-- **Exercises**: In addition to projects, there are exercises aimed at reinforcing your understanding of Python syntax, data structures, algorithms, and more. These exercises are designed to be challenging yet rewarding, helping you grow as a Python programmer.
-  
-- **Side Projects**: As you progress through the challenge, you'll encounter side projects that delve deeper into specific areas of programming. These projects will give you hands-on experience with important concepts such as OOP, Functional Programming, and advanced Python features.
+- **Main Projects**: Each day, you'll find a new Python project in the `Main Projects` directory. Some Projects that use multiple files even have their own dedicated directories. These projects will cover a wide range of topics and applications, allowing you to explore different aspects of Python programming.
+
+- **Side Projects**: As you progress through the challenge, you'll encounter side projects that delve deeper into specific areas of programming. These projects are included in the `Side Projects` directory and will give you hands-on experience with important concepts such as OOP, Functional Programming, and advanced Python features.
+
+- **Intermediate Exercises**: Some days have their own exercises to solidify the things learned during the course of that day. These exercises are simple but effective in developing a sound understanding of things covered in that day's lessons.
+
+- **DSA Exercises**: In addition to projects, there are exercises aimed at reinforcing your understanding of Python syntax, data structures, algorithms, and more. These exercises are designed to be challenging yet rewarding, helping you grow as a Python programmer.
 
 ## Detailed Course Content
 
